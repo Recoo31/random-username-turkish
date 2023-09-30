@@ -18,7 +18,7 @@ class handler(BaseHTTPRequestHandler):
         soy1 = random.choice(soy)
 
         olasilik = ['-','_']
-         
+       
 
         o1 = user1 +soy1 #adbudesem
         o2 = user1 #abdu
